@@ -1,6 +1,10 @@
 # Blibli Backend Coding Guidelines
 
 ## Java
-- Optional
+- [java.util.Optional](java/optional.md)
+
+## Maven
+
+## Spring Boot
 
 ## Reactive Programming

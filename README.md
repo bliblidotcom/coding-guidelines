@@ -1,0 +1,1 @@
+# Blibli Coding Guidelines
